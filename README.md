@@ -1,6 +1,6 @@
 # Entregables
 
-Primer Entrega
+**Primer Entrega**
 
 Conexion a API de tipos de cambios de todas las monedas vigentes, para observar la variacion de los valores.
 Cree el codigo en COLABORATORY, luego lo descargue e importe en Visual Studio.
@@ -21,7 +21,8 @@ CREATE TABLE CurrencyExchange (
 
 ![image](https://github.com/DanisaAltamirano/entregables/assets/149590620/6a442463-03a3-4cb5-989c-ef8e465bde9b)
 
-#Entrega 2
+**Segunda Entrega**
+
 Importe la libreria pandas, y psycopg2
 Cree un DF, que me permitio realizarle transformaciones a los datos, inclusive agregar una columna (ID)
 
