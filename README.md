@@ -1,6 +1,5 @@
 # Entregables
 
-# Entregable 1
 Primer Entrega
 
 Conexion a API de tipos de cambios de todas las monedas vigentes, para observar la variacion de los valores.
