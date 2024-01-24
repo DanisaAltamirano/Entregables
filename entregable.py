@@ -98,7 +98,7 @@ except Exception as e:
     print(f"Error al conectar a Redshift: {e}")
     # Puedes imprimir detalles adicionales del error si es necesario
 
- # Definición de la tabla (ajusta según tus necesidades)
+ # Definición de la tabla
 tabla_sql = f"""
     CREATE TABLE IF NOT EXISTS {REDSHIFT_SCHEMA}.CurrencyExchange(
         ID INT PRIMARY KEY,
